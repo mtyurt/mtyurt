@@ -13,6 +13,6 @@ Software engineer over here!
 - Twitter account is mostly for following people around.
 - I follow enough newsletters to publish a newsletter of weekly trending newsletters (I think that's what most newsletters do TBH). Mostly in DevOps, SRE, cloud technologies/providers area.
 
-Other than that? Father, husband, biker :motorcycle:, pipe smoker, book lover, guitar student (still student for like 5 years), once-aspiring-academic, cook-due-to-covid-who-measures-stuff-with-kitchen-scale, and so on.
+Other than that? Father, husband, biker :motorcycle:, book lover, guitar student (still student for like 5 years), and so on.
 
 We can talk forever why Vim is better than that awesome IDE, or why we all should avoid GUIs to manage git, or why we shouldn't tag people/teams as DevOps, or why everyone should understand how running things in production matters, or why everyone contributes to that codebase should be on-call and outsider on-calls is really a bad idea, or how monitoring is important and you should care about your metrics, or what observability means (well, I'll mostly be silent in this one), or ...
